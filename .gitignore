@@ -6,4 +6,4 @@ adobe*/
 *.webm
 *.mpeg
 *.log
-!doc/demo.mp4
+!doc/*.mp4
