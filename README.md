@@ -9,7 +9,7 @@ Para evitar interrupções no raciocínio ele é silêncioso, exceto a cada 7 (s
 
 Nota: todas as cores são facilmente personalizáveis.
 
-[![Exemplo curto](https://raw.githubusercontent.com/iasdme/es-cron/master/doc/demo-thumb.jpg)](https://raw.githubusercontent.com/iasdme/es-cron/master/doc/demo.mp4)
+<img max-height="720" src="doc/demo.gif">
 
 #### Configuração
 
