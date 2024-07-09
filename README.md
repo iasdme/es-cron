@@ -5,6 +5,18 @@ Este é um vídeo em 4k feito para marcar tempo e "ritmo" da lição da escola s
 
 Para evitar interrupções no raciocínio ele é silêncioso, exceto a cada 7 (sete) minutos onde há emissão sonora de clocks de relógio (sutis); e quando resta apenas 7 (sete) e 1 (um) minuto(s) - há aviso em locução e melodia, sendo melodia constante apenas a partir de 1 (um) minuto restante. Assim, ao executá-lo, deixe o canal de som aberto sem preocupações.
 
+### Exemplo curto
+
+Nota: todas as cores são facilmente personalizáveis.
+
+[![Exemplo curto](https://raw.githubusercontent.com/iasdme/es-cron/master/doc/demo-thumb.jpg)](https://raw.githubusercontent.com/iasdme/es-cron/master/doc/demo.mp4)
+
+#### Configuração
+
+As cores são fácilmente editáveis:
+
+<img width="50%" src="https://raw.githubusercontent.com/iasdme/es-cron/master/doc/screen.png">
+
 ## Recurso externo
 
 Recursos grandes - geralmente vídeos - não estão inclusos e devem ser baixados à parte:
@@ -28,7 +40,6 @@ Este ```.bat``` simplesmente executa o seguinte comando, que você também pode 
 ````
 ffmpeg -i %1 -y -vcodec libx264 -qp 0 -pix_fmt yuv420p -acodec copy "%1.mp4"
 ````
-
 ## Criador/contribuidor original
 
 <a href="https://github.com/jeanCarloEM" target="_blank">JeanCarloEM<a> | www.jeancarloem.com
