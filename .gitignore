@@ -6,5 +6,6 @@ adobe*/
 *.webm
 *.mpeg
 *.log
+*.pkf
 !doc/*.mp4
 assets/audios/voz/editado/Backup
